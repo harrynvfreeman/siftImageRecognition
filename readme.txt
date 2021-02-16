@@ -1,4 +1,4 @@
-Rotation invariant keypoint descriptor based off of https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf.
+Scale and Rotation invariant keypoint descriptor based off of https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf.
 Used images from Home Objects data set for training http://www.vision.caltech.edu/pmoreels/Datasets/Home_Objects_06/
 
 To run:
